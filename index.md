@@ -7,7 +7,10 @@ title: Bootstrap 4 Github Pages
 
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
+Step into the dynamic realm of `ROACH HAUS PHOTOGRAPHY`, where sports action freezes in exhilarating moments, events come alive with vibrant energy, and portraits unveil the essence of people and their beloved pets. From the intensity of competitive sports to the joy of celebratory events, each image tells a unique story, capturing the passion, spirit, and connection within every frame. Whether it’s the thrill of victory on the field, the warmth of family gatherings, or the playful antics of furry companions, `ROACH HAUS` expertly immortalizes these moments with finesse and artistry
 
+#GeoSnapShot Events
+####View and Buy your photos
 <iframe src="https://geosnapshot.com/RoachHaus/events?embed=true" allow="camera; geolocation; clipboard-write" style="width: 98%;height: 800px; border: 1px solid #e6e7e8;"></iframe>
 
 
