@@ -13,70 +13,13 @@ Step into the dynamic realm of `ROACH HAUS PHOTOGRAPHY`, where sports action fre
 ####View and Buy your photos
 <iframe src="https://geosnapshot.com/RoachHaus/events?embed=true" allow="camera; geolocation; clipboard-write" style="width: 98%;height: 800px; border: 1px solid #e6e7e8;"></iframe>
 
+#The Great Ocean Road RUNNING Festival 
+###14km paradise trail run 
 
+<iframe id='mapmyfitness_route' src='https://www.mapmyride.com/routes/view/embedded/1523908795?width=600&height=355&elevation=true&info=true&line_color=E6f749a5&rgbhex=a549f7&distance_markers=0&unit_type=metric&map_mode=SATELLITE&show_marker_every=1&last_updated=2017-04-18T23:51:23+00:00' height='658px' width='100%' frameborder='0' /><div class="jss1361" id="embed-frame-footer"><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyride.com/routes/view/1523908795" class="jss1362"><p class="MuiTypography-root jss1363 MuiTypography-body1" string="View Route Details">View Route Details</p></a><div class="jss1364"><p class="MuiTypography-root jss1365 jss1386 MuiTypography-body1">Create routes or search for a route at <span><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyride.com/" string="MapMyRide." class="jss1363">MapMyRide.</a></span></p></div></div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
-
-## Setup Guide
-
-### Create a repository from this template
-
-* [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-* Click the `Star` button on the top right. (OK, this step is facultative, but that would make you a nice person)
-* Click the `Use this template` button on the top right of the page.
-
-### Choose a name for your repository
-
-Here we have two possibilities:
-
-* **You want a user or organization website**
-
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
-
-  Choose the repository name `<your username>.github.io`.
-
-* **You want a project website**
-
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
-
-  Choose the repository name `<whatever you want>`.
-
-### Activate Github Pages on your repository
-
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
-
-### That's it
-
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
-
-## Customization Guide
-
-### Modify the configuration
-
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
+`OTHER`
+---
 
 ### Change your theme
 
